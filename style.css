@@ -1,0 +1,103 @@
+.divBody {
+    background-color : #ddd9d9c7;
+}
+.tbl{
+    width:99%;
+}
+.th{
+    background-color:#AAAAAA;
+    color:white;
+    width: 30%;
+    text-align: left;
+    font-size:24;
+    padding: 0.5em 0 0.5em 1em;
+}
+.th_table1{
+    background-image: url("");
+    background-size:cover ;
+    background-color:#000000c2;
+    color :white;
+    width: 20%;
+    text-align: left;
+    font-size:24;
+    padding: 0.5em 0 0.5em 1em;
+}
+.th_table2{
+    background-image: url("");
+    background-size:cover ;
+    background-color:#3cb372e1;
+    color : white;
+    width: 20%;
+    text-align: left;
+    font-size:24;
+    padding: 0.5em 0 0.5em 1em;
+}
+.th_table3{
+    background-image: url("");
+    background-size:cover ;
+    background-color:#000000c2;
+    color :white;
+    width: 20%;
+    text-align: left;
+    font-size:24;
+    padding: 0.5em 0 0.5em 1em;
+}
+.th_table4{
+    background-image: url("");
+    background-size:cover ;
+    background-color:#3cb372e1;
+    color : white;
+    width: 20%;
+    text-align: left;
+    font-size:24;
+    padding: 0.5em 0 0.5em 1em;
+}
+.th_table5{
+    background-image: url("");
+    background-size:cover ;
+    background-color:#000000c2;
+    color :white;
+    width: 20%;
+    text-align: left;
+    font-size:24;
+    padding: 0.5em 0 0.5em 1em;
+}
+
+.td1{
+    background-color:#AAAAAA;
+    width: 40%;
+    font-size:18;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    border-radius: 3px;
+}
+.td2{
+    background-color:rgba(255, 255, 255, 0.9);
+    width: 60%;
+    font-size:18;
+    text-align: left;
+    border-radius: 3px;
+    padding:10px;
+
+}
+.Contents{
+    background-color:#BBBBBB;
+    height:600px;
+    overflow-x:hidden;
+    overflow-y:scroll;
+    padding:5px;
+    border:0px solid #000;
+}
+.spanPartTitle{
+    font-size:24;
+}
+button {
+  border: solid 3px rgba(128, 127, 127, 0.400);
+  font-size: 16;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.800);
+  padding: 16px;
+}
+button:hover{
+    color:blue;
+    font-size:18px;
+}
